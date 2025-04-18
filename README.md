@@ -1,5 +1,9 @@
 # simple-python-pyinstaller-app
 
+# My notes
+1. had issues integrating with docker on my local machine, reverted my changes back to the tutorial example
+2. Next steps build a docker based pipeline
+
 This repository is for the
 [Build a Python app with PyInstaller](https://jenkins.io/doc/tutorials/build-a-python-app-with-pyinstaller/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
